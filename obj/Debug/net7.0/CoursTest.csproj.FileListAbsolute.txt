@@ -1,0 +1,14 @@
+C:\Users\loicm\dev\CoursTest\bin\Debug\net7.0\CoursTest.exe
+C:\Users\loicm\dev\CoursTest\bin\Debug\net7.0\CoursTest.deps.json
+C:\Users\loicm\dev\CoursTest\bin\Debug\net7.0\CoursTest.runtimeconfig.json
+C:\Users\loicm\dev\CoursTest\bin\Debug\net7.0\CoursTest.dll
+C:\Users\loicm\dev\CoursTest\bin\Debug\net7.0\CoursTest.pdb
+C:\Users\loicm\dev\CoursTest\obj\Debug\net7.0\CoursTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\loicm\dev\CoursTest\obj\Debug\net7.0\CoursTest.AssemblyInfoInputs.cache
+C:\Users\loicm\dev\CoursTest\obj\Debug\net7.0\CoursTest.AssemblyInfo.cs
+C:\Users\loicm\dev\CoursTest\obj\Debug\net7.0\CoursTest.csproj.CoreCompileInputs.cache
+C:\Users\loicm\dev\CoursTest\obj\Debug\net7.0\CoursTest.dll
+C:\Users\loicm\dev\CoursTest\obj\Debug\net7.0\refint\CoursTest.dll
+C:\Users\loicm\dev\CoursTest\obj\Debug\net7.0\CoursTest.pdb
+C:\Users\loicm\dev\CoursTest\obj\Debug\net7.0\CoursTest.genruntimeconfig.cache
+C:\Users\loicm\dev\CoursTest\obj\Debug\net7.0\ref\CoursTest.dll
